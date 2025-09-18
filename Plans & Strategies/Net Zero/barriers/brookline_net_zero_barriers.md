@@ -1,6 +1,11 @@
-# Structural Barriers to Brookline's 2040 Net-Zero Emissions Goal
+# **🚧 DRAFT 🚧**
 
-**DRAFT DOCUMENT**
+**Status**: DRAFT - Under Review
+**Note**: This document was generated/edited by AI and requires human review for accuracy.
+
+---
+
+# Structural Barriers to Brookline's 2040 Net-Zero Emissions Goal
 
 ## Executive Summary
 
