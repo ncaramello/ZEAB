@@ -103,3 +103,35 @@ According to the EPA's 2023 Greenhouse Gas Inventory, [transportation accounts f
 
 The National Renewable Energy Laboratory reports that [solar costs have declined 85% since 2010](https://www.nrel.gov/analysis/tech-lcoe-documentation.html), making it cost-competitive with fossil fuels in many markets.
 ```
+
+### Markdown Formatting Requirements
+
+When creating Markdown documents that may be converted to Word documents:
+
+#### List Formatting
+- **Always include a blank line before bulleted or numbered lists**
+- This ensures proper formatting when converted to Word documents
+- Without the blank line, lists may not render correctly in Word
+
+**Correct format:**
+```markdown
+The analysis reveals several key findings:
+
+- First finding with proper spacing
+- Second finding with proper spacing
+- Third finding with proper spacing
+```
+
+**Incorrect format:**
+```markdown
+The analysis reveals several key findings:
+- First finding without spacing
+- Second finding without spacing
+- Third finding without spacing
+```
+
+#### Other Word Conversion Considerations
+- Use proper heading hierarchy (H1, H2, H3, etc.)
+- Include blank lines between sections
+- Avoid excessive use of nested lists
+- Ensure tables have proper headers and formatting
