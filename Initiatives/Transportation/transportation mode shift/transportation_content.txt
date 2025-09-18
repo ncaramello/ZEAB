@@ -1,0 +1,81 @@
+Transportation Mode Shift
+
+  Reduce then eliminate internal combustion engine (ICE)-based
+  transportation. Electrify personal, municipal and public transit
+
+Personal: Fewer cars, all electric.
+
+-   Fewer cars:
+
+    -   Invest in and promote alternatives (walking, biking, scooters,
+          other micromobility). Plan and implement dedicated, protected
+          travel lanes. Strengthen Non-Car solutions in South Brookline.
+          Safe routes to school.
+
+    -   Consider whether public e-bike and e-scooter charging may be
+          helpful.
+
+-   The remainder all electric:
+
+    -   Continue to build out publicly-available charging network.
+
+        -   Town-owned lots
+
+        -   Curbside
+
+        -   Other shared solutions? (ItsElectric?)
+
+    -   Promote to property owners who are able to provide their own
+          charging solution (single family homes with off-street
+          parking, etc). Advantages to starting small and building up
+          from there.
+
+        -   120v trickle charge (public chargers to provide fast charge
+              when needed)
+
+        -   240v intermediate level (NEMA 14-50 40A)
+
+        -   Level 2 home charging
+
+    -   Privately-owned multi-unit condo or apartment buildings where
+          car owner can't directly control or access charging solution
+
+        -   Identify a few different scenarios, plan to work with condo
+              association or landlord
+
+    -   Town-owned multi-unit properties (BHA most notably)
+
+        -   Start effective planning for on-site charging solutions
+
+Municipal
+
+-   Electrify town fleet, police.
+
+    -   Any lessons learned from the 2 electric vehicles in the police
+          fleet?
+
+        -   One Mustang - special events vehicle. One Ford F250 - animal
+              control
+
+        -   Per conversation at Brookline Day, they work for special
+              purposes but EV not ready for line vehicles, which
+              basically run 24/7 and can’t afford downtime for charging.
+
+    -   Street sweepers, grounds maintenance equipment.
+
+-   Plan eventual replacement of larger ICE equipment (fire, town-owned
+      garbage, etc.)
+
+    -   Keep an eye on fuel cell technology for large vehicles.
+
+Transit
+
+-   Subway already there
+
+-   MBTA buses beyond Brookline's reach
+
+-   Town-owned shuttles (Senior van. Other?)
+
+-   Encourage taxis and ride shares to use available chargers
+      (apparently the original premise for the Webster Street L3
+      chargers)
